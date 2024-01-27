@@ -1,0 +1,10 @@
+C:\Users\01117\source\repos\practical _task\practical _task\bin\Debug\practical _task.exe.config
+C:\Users\01117\source\repos\practical _task\practical _task\bin\Debug\practical _task.exe
+C:\Users\01117\source\repos\practical _task\practical _task\bin\Debug\practical _task.pdb
+C:\Users\01117\source\repos\practical _task\practical _task\obj\Debug\practical__task.Form1.resources
+C:\Users\01117\source\repos\practical _task\practical _task\obj\Debug\practical__task.Properties.Resources.resources
+C:\Users\01117\source\repos\practical _task\practical _task\obj\Debug\practical _task.csproj.GenerateResource.cache
+C:\Users\01117\source\repos\practical _task\practical _task\obj\Debug\practical _task.csproj.CoreCompileInputs.cache
+C:\Users\01117\source\repos\practical _task\practical _task\obj\Debug\practical _task.exe
+C:\Users\01117\source\repos\practical _task\practical _task\obj\Debug\practical _task.pdb
+C:\Users\01117\source\repos\practical _task\practical _task\obj\Debug\practical _task.csproj.AssemblyReference.cache
